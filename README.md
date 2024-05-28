@@ -5,7 +5,7 @@ istenmektedir.
 Uygulamanız Sayilar.txt dosyası içerisindeki tam sayıları okuyacaktır. (Dosya içerisindeki sayı adedi değişebilir). Sayılar arasında tek bir boşluk bulunacaktır.
 
 Her bir sayı bir bağlı listede tutulacaktır. Okunan sayının basamakları listenin düğümleri olacaktır.
-Aşağıda 75142 sayısının bir bağlı liste içerisindeki düğümlerle temsil edilmesi gösterilmektedir.
+
 • Her bir basamağın tutulacağı düğüm sınıfı Basamak isminde olacaktır.
 • Basamakları bir arada tutacak olan liste sınıfının ismi Sayi olacaktır
 
